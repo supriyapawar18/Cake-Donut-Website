@@ -16,7 +16,7 @@ In this website after the  admin login, Admin can able to add cakes & Donuts rel
 - Admin Registration: Admin should first register by adding himself to database from backend.
 - Admin Login: Using login form, admin can login into the system.
 - Admin operations: Only Admin can perform Add/Delete/get List of cakes & Donuts & manage Orders.
-- Admin operations: Only admin can delete customers who have registered.
+- Admin operations: Only admin can delete/get customers list who have registered.
 
 ## Technology used in project (Cake & Donut Shop Website)
 - Spring Boot MVC framework *(Backend)*
@@ -38,11 +38,11 @@ For building and running the application you need:
 
 ## Static Pages and other Sections
 - Home Page with Good UI
-- Home page will contain an javascript images annimation.
+- Home page will contain an images annimation.
 - Contact us page will contain an information about timing, address, email id, contact number and opening and closing time of cake shop.
 - About us page will be available which will describe about the project
 - My Products gallery page.
-- Order Placed Successfully page will display after order is placed & By shop again button you will redirect to home again to shop more.
+- Order Placed Successfully page will display after order is placed & By Order again button you will redirect to home again to Order more.
 - Admin Menu Page contains admin operation. This page is visible only after admin login is done.
 
 ## Screenshots
