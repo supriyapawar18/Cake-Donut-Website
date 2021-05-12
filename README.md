@@ -28,7 +28,6 @@ In this website after the  admin login, Admin can able to add cakes & Donuts rel
 - JSTL tags *(JSTL tags used in JSP)*
 - Ajax lib  *(ajax lib used in JSP for login & registeration page)*
 - Bootstrap *(Bootstrap used for Registration, Login page & Home Page)*
-- junit Testing *(Unit Testing is done using junit)*
 - Tomcat *(Project will be run locally over the tomcat server)*
 
 ## Requirements
